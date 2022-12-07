@@ -13,7 +13,7 @@
 
 ### bar plot
 - Family level profile was used for drawing bar plot.
-- Only 20 abundant genera (>0.5% total abundance) were noted.
+- Only 11 abundant genera were noted.
 ![sheet2_bar_final](https://user-images.githubusercontent.com/119988478/206215876-312d35b8-de40-469c-8a0d-2bee9bfe6f2e.png)
 
 
